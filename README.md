@@ -1,1 +1,2 @@
-Neste repositório estarão os códigos do projeto "CONEXÃO SOLIDÁRIA"
+# ConexaoSolidaria
+projeto final de conclusão de curso
