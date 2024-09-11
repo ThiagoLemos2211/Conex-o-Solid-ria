@@ -1,1 +1,1 @@
-# Conex-o-Solid-ria
+Neste repositório estarão os códigos do projeto "CONEXÃO SOLIDÁRIA"
